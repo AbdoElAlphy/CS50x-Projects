@@ -1,0 +1,14 @@
+sort1 uses: Bubble Sort
+
+How do you know?:
+sort1 sorts an already sorted list almost instantly because it can detect that no swaps were made in the first pass and terminate early, giving it an O(n) best-case time complexity. However, it takes much longer on random and reversed inputs, which reflects Bubble Sort's O(n^2) worst and average case behavior.
+
+sort2 uses: Merge Sort
+
+How do you know?:
+sort2 is significantly faster than both sort1 and sort3 when sorting large files (like 50,000 numbers). Its running time remains consistently fast across sorted, random, and reversed inputs, which matches the O(n log n) time complexity of Merge Sort.
+
+sort3 uses: Selection Sort
+
+How do you know?:
+sort3 takes roughly the same amount of time regardless of whether the input file is sorted, random, or reversed. This is because Selection Sort always iterates through the entire remaining unsorted list to find the minimum element, resulting in an O(n^2) running time in all cases.
