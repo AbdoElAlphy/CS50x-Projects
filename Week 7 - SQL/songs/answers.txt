@@ -1,0 +1,3 @@
+1. The listener's audio aura seems to be high energy and danceable based on the average values of energy, danceability, and valence in the top 100 songs dataset.
+
+2. This way of calculating aura might not fully represent the listener because it only takes into account average values across 100 songs without considering how often each song was listened to (play count) or the time of day/year the music was played. A better method would be to weight each track is audio features by its total listening time or play counts, and track how these preferences change over time.
