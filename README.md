@@ -1,5 +1,30 @@
-Completed Harvard University's CS50x: Introduction to Computer Science, including a collection of programming problem sets and web development projects.
+# CS50x – Problem Sets
 
-Developed practical experience with C, Python, SQL, SQLite, HTML, CSS, JavaScript, Flask, Bootstrap, data structures, algorithms, memory management, and web development concepts.
+My solutions and projects completed as part of Harvard University's CS50x:
+Introduction to Computer Science.
 
-Applied problem-solving and computational thinking to implement algorithms, work with databases, manage memory, and build web applications.
+## Skills & Technologies
+
+- C
+- Python
+- SQL & SQLite
+- HTML
+- CSS
+- JavaScript
+- Flask
+- Bootstrap
+- Data Structures
+- Algorithms
+- Memory Management
+- Web Development
+- Git & GitHub
+
+## Topics Covered
+
+- Algorithms and Computational Thinking
+- Data Structures
+- Memory Management and Pointers
+- Databases and SQL
+- Web Development
+- HTTP, Sessions and Cookies
+- Web Security Basics
