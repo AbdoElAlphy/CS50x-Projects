@@ -1,0 +1,39 @@
+HTML Tags Used (at least 10):
+1. nav
+2. div
+3. a
+4. ul
+5. li
+6. main
+7. h1
+8. p
+9. button
+10. footer
+11. h2
+12. ol
+13. form
+14. label
+15. input
+16. textarea
+
+CSS Selectors Used (at least 5):
+1. body
+2. h1
+3. h2
+4. footer
+5. #welcome-btn
+
+CSS Properties Used (at least 5):
+1. background-color
+2. font-family
+3. color
+4. text-align
+5. margin-bottom
+6. position
+7. padding
+
+Bootstrap Usage:
+Bootstrap was used to create a responsive navigation bar, layout containers, form inputs, and styled buttons.
+
+JavaScript Usage:
+JavaScript was used to display an interactive alert greeting pop-up when clicking the welcome button on the homepage.
