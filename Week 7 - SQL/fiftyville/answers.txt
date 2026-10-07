@@ -1,0 +1,3 @@
+The thief is: Bruce
+The city the thief escaped to: New York City
+The accomplice is: Robin
